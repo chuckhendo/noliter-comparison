@@ -1,0 +1,2 @@
+- `node gen-file.js` will generate src/index1.js and src/index2.js. 
+- `yarn build` will build code and create a gz version
